@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SteeringWheelInterface_Library)(type Legacy)(uri ${KIPRJMOD}/SteeringWheelInterface_Library.lib)(options "")(descr ""))
+)
