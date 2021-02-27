@@ -1,1 +1,1 @@
-[Schematic](Schematic.png)
+![Schematic](Schematic.png)
