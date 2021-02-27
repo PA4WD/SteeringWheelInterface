@@ -2,15 +2,15 @@ Steering wheel interface for Nissan Note 2006  to Kenwood NEC remote input
 
 orginal wiring  in the car
 
-[Steering wheel to radio](SteeringWheelConnections.png)
+![Steering wheel to radio](SteeringWheelConnections.png)
 
 Resistor values from the steering wheel buttons
 
-[Steering wheel resistor values](SteeringWheelResistors.png)
+![Steering wheel resistor values](SteeringWheelResistors.png)
 
-Connect info button in radio connector to ground.
+Connect info button \n radio connector to ground.
 
-[Info button](SteeringWheelTripcomputer.png)
+![Info button](SteeringWheelTripcomputer.png)
 
 
 
